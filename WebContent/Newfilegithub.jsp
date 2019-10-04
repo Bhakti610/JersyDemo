@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Jersey project</title>
+<title>Insert title here</title>
 </head>
 <body>
-<a href="Newfilegithub.jsp">Click to see New file changes</a>
-<a href="rest/messages">Click to see jersy demo</a>
+
+<h1>Click to see new file's changes</h1>
+
 </body>
 </html>
